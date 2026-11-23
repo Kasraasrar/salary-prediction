@@ -2,6 +2,16 @@
 
 A Machine Learning project that predicts a programmer's annual salary based on their country, education level, and years of coding experience.
 
+## Dataset
+
+This project uses the Stack Overflow Developer Survey 2025 dataset.
+
+**Official Source:** [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
+
+**Direct Download:** [Download CSV Dataset](https://media.githubusercontent.com/media/StackExchange/Survey/refs/heads/main/packages/archive/2025/results.csv)
+
+The dataset is used for data preprocessing, exploratory data analysis, and salary prediction.
+
 ## Project Overview
 
 This project explores salary prediction using real-world data. It includes data preprocessing, exploratory data analysis, model comparison, hyperparameter tuning, and model evaluation.
